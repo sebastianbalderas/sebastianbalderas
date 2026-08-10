@@ -1,16 +1,72 @@
-## Hi there 👋
+# Sebastián Balderas Espinosa
 
-<!--
-**sebastianbalderas/sebastianbalderas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior UX/UI Engineer** — I turn manual workflows into AI-native systems of action.
+Workflow-heavy B2B SaaS, enterprise platforms, design systems.
 
-Here are some ideas to get you started:
+📍 Puebla, Mexico · Eligible to work in the U.S. under TN status
+🔗 [sebastianbalderas.com](https://sebastianbalderas.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I do
+
+I design the layer where humans and AI agents coordinate work: state models, multi-role workflows, roles and permissions. Most of my work is on live, revenue-critical systems where the job is to evolve what already exists, not rebuild it.
+
+I sequence AI adoption with a three-tier maturity framework:
+
+| Tier | What it is | Status on Strata |
+|---|---|---|
+| **L1** — Deterministic automation | Fixed rules, no reasoning | Shipped |
+| **L2** — Agentic integration | LLM agents making bounded decisions within a step | Shipped in production |
+| **L3** — Adaptive agent loops | Agents evaluating options against SLA data | Governance architected, held back until safe |
+
+---
+
+## Why the order matters
+
+I spent **four years doing this work without AI** before spending three working AI-first.
+
+Knowing how a workflow is solved by hand is what lets me tell when a model is confidently wrong — and direct it instead of shipping its output.
+
+---
+
+## Selected work
+
+**[Strata — AI-Native System of Action](https://sebastianbalderas.com/case-studies/strata)**
+An agentic B2B SaaS platform for enterprise operations. Designed the action layer and the AI adoption sequence.
+`+40% SLA compliance and throughput` · `~35% less manual validation effort`
+
+**[Repfabric — AI Sales CRM/ERP](https://sebastianbalderas.com/case-studies/repfabric)**
+De-scoped a 20-role, 12-module platform down to the one persona driving adoption.
+`~85% of legacy functionality removed` · `live Salesforce-integrated build, never broken`
+
+**[Strata Design System — Figma as Product Infrastructure](https://sebastianbalderas.com/case-studies/design-system)**
+Semantic tokens mapped 1:1 to code, state-driven components, Figma as a machine-readable dataset.
+`+35% delivery velocity`
+
+---
+
+## This profile's contribution graph
+
+Most of it comes from **[sebastianbalderas.com](https://sebastianbalderas.com)** — a Next.js site I researched, designed, built, deployed and tested end to end on my own, conversational AI layer included. No engineer, no team.
+
+Paste a job description into the chat there and it maps the fit, including where I don't.
+
+---
+
+## Stack
+
+**Design** — Figma (variables, tokens, components), design-to-code with the Figma MCP
+**Build** — Next.js, TypeScript, React, Angular, Tailwind, ShadCN, Radix
+**AI** — Claude, Claude Code, Cursor, n8n, MCP, LlamaIndex
+**Ship** — Vercel, Git, Jira
+
+---
+
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/sebastian-balderas-espinosa/) ·
+[Portfolio](https://sebastianbalderas.com) ·
+[Contra](https://contra.com/sebastian_balderas_espi_zuvg4kro) ·
+[Torre](https://torre.ai/sebastianbalderase) ·
+[Behance](https://www.behance.net/sebastibaldera2)
