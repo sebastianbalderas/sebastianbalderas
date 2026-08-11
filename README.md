@@ -4,6 +4,7 @@
 Workflow-heavy B2B SaaS, enterprise platforms, design systems.
 
 📍 Puebla, Mexico · Eligible to work in the U.S. under TN status
+
 🔗 [sebastianbalderas.com](https://sebastianbalderas.com)
 
 ---
@@ -57,8 +58,11 @@ Paste a job description into the chat there and it maps the fit, including where
 ## Stack
 
 **Design** — Figma (variables, tokens, components), design-to-code with the Figma MCP
+
 **Build** — Next.js, TypeScript, React, Angular, Tailwind, ShadCN, Radix
+
 **AI** — Claude, Claude Code, Cursor, n8n, MCP, LlamaIndex
+
 **Ship** — Vercel, Git, Jira
 
 ---
