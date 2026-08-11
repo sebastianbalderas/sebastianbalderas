@@ -34,14 +34,17 @@ Knowing how a workflow is solved by hand is what lets me tell when a model is co
 ## Selected work
 
 **[Strata — AI-Native System of Action](https://sebastianbalderas.com/case-studies/strata)**
+
 An agentic B2B SaaS platform for enterprise operations. Designed the action layer and the AI adoption sequence.
 `+40% SLA compliance and throughput` · `~35% less manual validation effort`
 
 **[Repfabric — AI Sales CRM/ERP](https://sebastianbalderas.com/case-studies/repfabric)**
+
 De-scoped a 20-role, 12-module platform down to the one persona driving adoption.
 `~85% of legacy functionality removed` · `live Salesforce-integrated build, never broken`
 
 **[Strata Design System — Figma as Product Infrastructure](https://sebastianbalderas.com/case-studies/design-system)**
+
 Semantic tokens mapped 1:1 to code, state-driven components, Figma as a machine-readable dataset.
 `+35% delivery velocity`
 
