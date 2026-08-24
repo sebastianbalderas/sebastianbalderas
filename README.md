@@ -76,4 +76,5 @@ Paste a job description into the chat there and it maps the fit, including where
 [Portfolio](https://sebastianbalderas.com) ·
 [Contra](https://contra.com/sebastian_balderas_espi_zuvg4kro) ·
 [Torre](https://torre.ai/sebastianbalderase) ·
-[Behance](https://www.behance.net/sebastibaldera2)
+[Behance](https://www.behance.net/sebastibaldera2) ·
+[Medium](https://medium.com/@sebastianbalderas)
