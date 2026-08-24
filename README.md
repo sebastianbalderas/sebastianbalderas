@@ -1,7 +1,7 @@
 # Sebastián Balderas Espinosa
 
-**Senior UX/UI Engineer** — I turn manual workflows into AI-native systems of action.
-Workflow-heavy B2B SaaS, enterprise platforms, design systems.
+**Senior UX/UI Engineer (Design Engineer)** — I turn manual workflows into AI-native systems of action.
+Workflow-heavy B2B SaaS, enterprise platforms, design systems shipped as code.
 
 📍 Puebla, Mexico · Eligible to work in the U.S. under TN status
 
@@ -25,7 +25,7 @@ I sequence AI adoption with a three-tier maturity framework:
 
 ## Why the order matters
 
-I spent **four years doing this work without AI** before spending three working AI-first.
+**Eight years designing for enterprise workflows** — five before AI, three AI-first since 2023.
 
 Knowing how a workflow is solved by hand is what lets me tell when a model is confidently wrong — and direct it instead of shipping its output.
 
@@ -36,7 +36,7 @@ Knowing how a workflow is solved by hand is what lets me tell when a model is co
 **[Strata — AI-Native System of Action](https://sebastianbalderas.com/case-studies/strata)**
 
 An agentic B2B SaaS platform for enterprise operations. Designed the action layer and the AI adoption sequence.
-`+40% SLA compliance and throughput` · `~35% less manual validation effort`
+`+40% SLA compliance and throughput` · `~30% fewer operational delays`
 
 **[Repfabric — AI Sales CRM/ERP](https://sebastianbalderas.com/case-studies/repfabric)**
 
@@ -64,7 +64,7 @@ Paste a job description into the chat there and it maps the fit, including where
 
 **Build** — Next.js, TypeScript, React, Angular, Tailwind, ShadCN, Radix
 
-**AI** — Claude, Claude Code, Cursor, n8n, MCP, LlamaIndex
+**AI** — Claude, Claude Code, Cursor, n8n, MCP
 
 **Ship** — Vercel, Git, Jira
 
