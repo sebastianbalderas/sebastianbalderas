@@ -22,7 +22,7 @@ Sometimes that means evolving a live platform; other times it means turning an u
 
 ### [Strata — AI-Native System of Action](https://sebastianbalderas.com/case-studies/strata)
 
-An agentic B2B SaaS platform for enterprise operations. Designed the action layer and the AI adoption sequence. **+40% SLA compliance and throughput** · **~30% fewer operational delays**.
+An agentic B2B SaaS platform for enterprise operations. Designed the action layer and the AI adoption sequence. **+40% SLA compliance and throughput** · **-30% operational delays**.
 
 ### [Repfabric — AI Sales CRM/ERP](https://sebastianbalderas.com/case-studies/repfabric)
 
