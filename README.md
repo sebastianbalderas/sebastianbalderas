@@ -4,7 +4,7 @@
 
 ## What I do
 
-I design systems of action for ambiguous 0→1 products and workflow-heavy B2B SaaS: state models, multi-role workflows, roles, permissions, and implementation rules that let people and AI agents coordinate work with clarity.
+I design Agentic AI and human–agent systems of action for ambiguous 0→1 products and workflow-heavy B2B SaaS: state models, multi-role workflows, roles, permissions, and implementation rules that let people and AI agents coordinate work with clarity.
 
 Sometimes that means evolving a live platform; other times it means turning an unclear product idea into the workflows, decisions, and design-system rules required before a screen can be useful. I sequence AI adoption with a three-tier maturity framework:
 
