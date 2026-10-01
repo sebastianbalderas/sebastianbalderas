@@ -14,6 +14,8 @@ Sometimes that means evolving a live platform; other times it means turning an u
 | **L2 — Agentic integration** | LLM agents making bounded decisions within a workflow step | Shipped in production |
 | **L3 — Adaptive agent loops** | Agents evaluating options against context, SLA data, and permission scopes | Designed and deliberately held back until audit trails and permission scopes were safe enough to remove human review |
 
+I also build my own production interfaces with React, Next.js, TypeScript, and Tailwind CSS. My portfolio includes retrieval routing, guardrails, and a conversational agent. For client work, I design and govern the implementation contract; Engineering owns production implementation.
+
 ## Why the order matters
 
 **Eight years designing enterprise workflows** — five before AI, three AI-first since 2023. Knowing how a workflow is solved by hand is what lets me tell when a model is confidently wrong, then direct it instead of shipping its output.
@@ -35,3 +37,5 @@ Figma for collaborative exploration and client iteration; semantic tokens mapped
 ## This profile's contribution graph
 
 Most of it comes from [sebastianbalderas.com](https://sebastianbalderas.com) — a Next.js site I researched, designed, built, deployed, and tested end to end, including a conversational AI layer with retrieval routing and guardrails.
+
+Personal implementation demo — Storybook components, states, tokens, accessibility, and implementation contracts: https://storybook.sebastianbalderas.com
