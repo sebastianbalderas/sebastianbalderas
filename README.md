@@ -16,6 +16,12 @@ Sometimes that means evolving a live platform; other times it means turning an u
 
 I also build my own production interfaces with React, Next.js, TypeScript, and Tailwind CSS. My portfolio includes retrieval routing, guardrails, and a conversational agent. For client work, I design and govern the implementation contract; Engineering owns production implementation.
 
+## What AI needs to ship safely
+
+AI can accelerate delivery, but it needs a governed product context to do so safely: clear workflows, roles, decision boundaries, permissions, business rules, states, and approved components.
+
+My delivery loop is: product context → implementation rules → bounded AI-assisted work → human review → accessibility and functional validation. The goal is not to automate judgment away; it is to help teams ship faster without accelerating drift.
+
 ## Why the order matters
 
 **Eight years designing enterprise workflows** — five before AI, three AI-first since 2023. Knowing how a workflow is solved by hand is what lets me tell when a model is confidently wrong, then direct it instead of shipping its output.
